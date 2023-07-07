@@ -1,5 +1,5 @@
 ![331125_630361](https://user-images.githubusercontent.com/124582867/229380110-7673c718-e712-4ac6-aa56-c816d5535188.png)
-
+this my blog if you want more information -> (https://medium.com/@5661/web-infrastructure-design-c47a1291b70d)
 Web infrastructure design
 
 ## Learning Objectives
